@@ -40,4 +40,10 @@ public class LoginDaoImpl implements LoginDao {
 		return userPresent;
 	}
 
+
+	public boolean checkLoginNew(LoginModel loginModel) {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
 }
